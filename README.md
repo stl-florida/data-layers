@@ -1,10 +1,10 @@
 **Temporary end-point for geoJSON, topJSON map layers**
 ---
-**Cities:**<br>
+**cities.geojson**<br>
 Outlines for cities and counties.<br>
 *Polygons*<br>
 <br>
-**Red cross:**<br>
+**redCross.geojson**<br>
 Red cross locations.<br>
 *Points*<br>
 <br>
