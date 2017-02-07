@@ -1,7 +1,7 @@
 **Temporary end-point for geoJSON, topJSON map layers**
 ---
 **cities.geojson**<br>
-Outlines for cities and counties.<br>
+Outlines for cities in Broward county.<br>
 *Polygons*<br>
 <br>
 **redCross.geojson**<br>
